@@ -11,8 +11,8 @@ An end-to-end data science project: explore a student dataset, find which factor
 
 - File: `student_performance.csv`
 - Size: 1,000,000 students, 6 columns, no missing values
-- Source: *(add the link or name of where you got the dataset)*
-
+- Source: provided for learning
+ 
 | Column | Meaning |
 |---|---|
 | `student_id` | Student number (not used) |
